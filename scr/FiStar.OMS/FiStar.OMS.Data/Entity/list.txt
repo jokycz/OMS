@@ -1,0 +1,32 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3255-574C
+
+ Directory of C:\Users\jkyn\source\repos\FiStar\FiStar.OMS\scr\FiStar.OMS\FiStar.OMS.Data\Entity
+
+12.03.2024  23:39    <DIR>          .
+12.03.2024  23:39    <DIR>          ..
+12.03.2024  23:29               914 Country.cs
+12.03.2024  19:05               922 Currency.cs
+12.03.2024  22:54             2�580 Customer.cs
+12.03.2024  23:35             3�006 CustomerAddress.cs
+12.03.2024  19:25               966 CustomerAddressType.cs
+12.03.2024  23:35             9�566 CustomerOrder.cs
+12.03.2024  18:38               883 CustomerOrderDeliveryStatus.cs
+12.03.2024  18:34             1�030 CustomerOrderDeliveryType.cs
+12.03.2024  23:01             7�987 CustomerOrderItem.cs
+12.03.2024  18:26               897 CustomerOrderPaymentStatus.cs
+12.03.2024  18:22               877 CustomerOrderPaymentType.cs
+12.03.2024  18:16               817 CustomerOrderStatus.cs
+12.03.2024  23:35             2�271 CustomerOrderSum.cs
+12.03.2024  21:29               838 Eshop.cs
+12.03.2024  22:32               739 ItemType.cs
+12.03.2024  23:39                 0 list.txt
+12.03.2024  22:31             1�202 OrderItemType.cs
+12.03.2024  22:48               686 RoutingType.cs
+12.03.2024  21:35             2�420 SystemUser.cs
+12.03.2024  22:47               891 UnitOfMeasure.cs
+12.03.2024  20:19               851 ValidateVatNumberStatus.cs
+12.03.2024  22:48               857 Vat.cs
+12.03.2024  22:38             2�371 WarehouseCard.cs
+              23 File(s)         43�571 bytes
+               2 Dir(s)  33�577�820�160 bytes free

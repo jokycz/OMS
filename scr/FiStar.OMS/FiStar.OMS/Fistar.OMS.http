@@ -1,0 +1,6 @@
+@Fistar.OMS_HostAddress = http://localhost:5097
+
+GET {{Fistar.OMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
